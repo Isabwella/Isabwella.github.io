@@ -1,3 +1,7 @@
-This is gonna be a test
+Hello there, I'm Izzy! 🐈🧶
+===
 
-Let's see if this works
+## My name is Isabella Lee, and I enjoy making games as much as I enjoy playing them!
+### [Click here](https://izzydesigns.github.io/) to visit my page and see more... 👀
+
+Hosted via [Github Pages](https://pages.github.com/)
